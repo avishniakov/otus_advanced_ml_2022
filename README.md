@@ -1,1 +1,4 @@
-# otus_advanced_ml_2022
+# OTUS. Advanced Machine Learning
+Started in December 2021.
+
+Repo for homeworks sharing.
